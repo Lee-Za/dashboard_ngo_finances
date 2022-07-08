@@ -8,4 +8,4 @@ The raw data is derived from the accounting software SevDesk, where bank transac
 
 This is what it looks like:
 
-![alt text](dashboard_screenshot.png "Dashboard Screenshot")
+![](dashboard_screenshot.png)
