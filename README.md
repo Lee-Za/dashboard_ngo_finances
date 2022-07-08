@@ -6,6 +6,6 @@ Created an interactive Excel dashboard that can easily be updated.
 
 The raw data is derived from the accounting software SevDesk, where bank transactions and invoices can be booked to payment accounts.
 
-This is what it looks like:
+This is what it looks like (anonymised):
 
 ![](dashboard_screenshot.png)
